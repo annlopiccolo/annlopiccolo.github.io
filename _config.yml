@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -24,13 +24,13 @@ repository               : "annlopiccolo/annlopiccolo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Anna Lo Piccolo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physical Oceanography"
+  location         : "Providence, RI, USA"
+  employer         : "Brown University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anna_lo_piccolo@brown.edu" 
 
   # Academic websites
   academia         : # URL
