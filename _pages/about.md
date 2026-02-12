@@ -10,9 +10,14 @@ header:
   overlay_color: #rgba(0,0,0,0.3)  # optional dark overlay
   cta_url: /contact         # optional button link
   cta_label: "Contact Me"   # optional button text
-  caption: #"submesoscale eddies"  # optional caption text
+  caption: #"my simulated submesoscale eddies"  # optional caption text
 ---
 
+Hello! My name is Anna, I am a physical oceanographer interested in turbulence problems. I am currently in the final stages of my Ph.D. at Brown University, where I am adviced by [Prof. Baylor Fox-Kemper](https://fox-kemper.com/). I completed a bachelor degree in Physics at the University of Trento, Italy, and a master degree in Physics of the Earth System at the University of Bologna, Italy, where I was supervised by [Prof. Nadia Pinardi](https://www.cmcc.it/people/pinardi-nadia). In my Ph.D. I worked on submesoscale dynamics spanning from polar regions to biogeochemical applications, and from diagnosis of energetics and transport to parameterization development. In these years, I had the pleasure of working closely with amazing scientists, both at Brown University and beyond. In my research, I use ocean models and a lot of theoretical and physical intuition. I like to approach new problems (not only in science) with an open mind, and I enjoy brainstorming on ideas.
+
+ I love many things in life, from being in contact with nature — hiking, climbing, swimming — and connecting with people, to doing creative work (including science-inspired projects), and reading and overthinking.
+
+ 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
