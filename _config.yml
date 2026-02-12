@@ -23,7 +23,7 @@ repository               : "annlopiccolo/annlopiccolo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_photo_square.jpeg"
+  avatar           : "IMG_photo.jpeg"
   name             : "Anna Lo Piccolo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Physical Oceanographer"
