@@ -30,7 +30,8 @@ author:
   location         : "Providence, RI, USA"
   employer         : "Brown University"
   uri              : # URL
-  email            : "anna_lo_piccolo@brown.edu" 
+  email            : "anna_lo_piccolo@brown.edu"
+  cv               : "/files/CV_0226_LoPiccolo.pdf"
 
   # Academic websites
   academia         : # URL
