@@ -17,6 +17,8 @@ Hello! My name is Anna, I am a physical oceanographer interested in turbulence p
 
  I love many things in life, from being in contact with nature — hiking, climbing, swimming — and connecting with people, to doing creative work (including science-inspired projects), and reading and overthinking.
 
+ **At the moment, I am looking for a postdoc position. If you like my work or want to talk to know more, please get in touch with me!**
+
 Research Areas
 ======
 - Submesoscale dynamics
@@ -27,7 +29,7 @@ Research Areas
 
 News
 ======
-At the moment, I am looking for a postdoc position. If you like my work or want to talk to know more, please get in touch with me!
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
