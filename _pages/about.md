@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: hero_website.png           # <-- your hero image file
+  image: hero_website_shorter.png           # <-- your hero image file
   overlay_color: #rgba(0,0,0,0.3)  # optional dark overlay
   cta_url: /contact         # optional button link
   cta_label: "Contact Me"   # optional button text
