@@ -134,8 +134,8 @@
     }
 
     .wrapper {
-      padding-left: 5em;
-      padding-right: 5em;
+      padding-left: 2em;
+      padding-right: 2em;
 
       @include breakpoint($x-large) {
         max-width: $x-large;
