@@ -108,7 +108,7 @@
 }
 
 .page__hero {
-  margin-top: 0;
+  margin-top: 0;         // removes gap for "menu on top"
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
@@ -119,6 +119,7 @@
     position: relative;
     margin-bottom: 2em;
     padding: 3em 0;
+    padding-top: 5rem;   // space for the fixed menu
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
