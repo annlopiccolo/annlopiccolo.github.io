@@ -338,8 +338,8 @@
 .comment__avatar {
   width: 100%;
   height: 100%;
-  border-radius: 0;
-  object-fit: cover; // mantiene proporzioni senza deformare l’immagine
+  border-radius: 0 !important; // forza il rettangolo
+  object-fit: cover; 
   padding: 0;
   border: none;
 
@@ -348,6 +348,7 @@
     border: 1px solid var(--global-border-color);
   }
 }
+
 
 //.comment__avatar-wrapper {
 //  float: left;
