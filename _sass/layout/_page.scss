@@ -17,6 +17,7 @@
 }
 
 .page {
+   margin-top: 4rem; // prova 4-6rem
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
