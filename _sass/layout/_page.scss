@@ -118,8 +118,8 @@
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
-    padding-top: 80px;  //5rem;   // space for the fixed menu
+    //padding: 3em 0;
+    padding-top: 0;  //5rem;   // space for the fixed menu
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
