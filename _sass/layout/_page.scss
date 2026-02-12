@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+   opacity: 0.5;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -109,14 +110,14 @@
 
 .page__hero {
   margin-top: 0;         // removes gap for "menu on top"
-  position: relative;
+  position: fixed;
   margin-bottom: 2em;
   @include clearfix;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
 
   &--overlay {
-    position: relative;
+    position: fixed;
     margin-bottom: 2em;
     //padding: 3em 0;
     padding-top: 80px;  //5rem;   // space for the fixed menu
