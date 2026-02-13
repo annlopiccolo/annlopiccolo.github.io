@@ -57,7 +57,7 @@
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
       {% if author.cv %}
-        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>CV</a></li>
+        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>{{ author.cv }}</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
