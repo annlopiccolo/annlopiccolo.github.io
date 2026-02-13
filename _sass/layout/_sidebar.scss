@@ -14,15 +14,14 @@
   margin-bottom: 1em;
 
   @media (orientation: portrait) {
-    margin-top: 10rem; //2em;
+    margin-top: 2em;
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: 200px;
-     //padding-top: calc($masthead-height + 50px);   // Add space for the sidebar top
+    padding-top: $masthead-height;   // Add space for the sidebar top
   }
 
   @include breakpoint($large) {
