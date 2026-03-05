@@ -19,7 +19,7 @@ Hello! My name is Anna, I am a physical oceanographer interested in turbulence p
 
  **I am looking for a postdoc position. If you like my work or want to talk to know more, please get in touch with me!**
 
-Research Areas
+Research Interests
 ======
 - Submesoscale dynamics
 - Ocean-sea ice interactions
